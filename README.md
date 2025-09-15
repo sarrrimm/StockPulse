@@ -1,5 +1,10 @@
 # StockPulse
 
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green.svg)](https://fastapi.tiangolo.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-Frontend-black.svg)](https://nextjs.org/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
 StockPulse is a stock anomaly detection platform with a **FastAPI backend** and a **Next.js 15 frontend**.  
 It ingests stock data, detects anomalies using machine learning, and provides a clean UI to explore results.
 
