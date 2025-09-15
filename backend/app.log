@@ -1,0 +1,23 @@
+2025-09-15 02:06:20,066 - __main__ - INFO - Model loaded successfully
+2025-09-15 02:06:20,182 - __main__ - INFO - Database initialized successfully
+2025-09-15 02:06:20,184 - __main__ - INFO - Application startup validation completed successfully
+2025-09-15 02:06:20,186 - __main__ - INFO - Database initialized successfully
+2025-09-15 02:06:20,277 - app - INFO - Model loaded successfully
+2025-09-15 02:06:31,628 - __main__ - INFO - Model loaded successfully
+2025-09-15 02:06:31,753 - __main__ - INFO - Database initialized successfully
+2025-09-15 02:06:31,755 - __main__ - INFO - Application startup validation completed successfully
+2025-09-15 02:06:31,760 - __main__ - INFO - Database initialized successfully
+2025-09-15 02:06:31,893 - app - INFO - Model loaded successfully
+2025-09-15 10:01:28,955 - app - INFO - Model loaded successfully
+2025-09-15 10:04:36,893 - app - INFO - Starting processing for report 996c084f-0617-486e-a350-d9777abd4358 with threshold 5%
+2025-09-15 10:04:37,080 - app - INFO - Preprocessing completed: 2514 records, 15 features
+2025-09-15 10:04:37,145 - app - INFO - Anomaly detection completed:
+2025-09-15 10:04:37,146 - app - INFO -   Threshold: -0.5678
+2025-09-15 10:04:37,148 - app - INFO -   Score range: [-0.5678, 0.4000]
+2025-09-15 10:04:37,151 - app - INFO -   Anomalies: 127/2514 (5.05%)
+2025-09-15 10:04:37,154 - app - INFO - Report 996c084f-0617-486e-a350-d9777abd4358: 127/2514 anomalies (5.05%)
+2025-09-15 10:04:37,647 - app - INFO - Successfully completed processing for report 996c084f-0617-486e-a350-d9777abd4358
+2025-09-15 10:05:10,048 - app - INFO - Deleted 2515 rows from chart_data
+2025-09-15 10:05:10,061 - app - INFO - Deleted 2515 rows from anomalies
+2025-09-15 10:05:10,062 - app - INFO - Deleted 1 rows from reports
+2025-09-15 10:05:10,092 - app - INFO - Successfully deleted report 5341596c-d7fa-47d6-8341-d9e3ca93bc9d
